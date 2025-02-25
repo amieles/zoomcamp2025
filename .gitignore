@@ -2,6 +2,8 @@ ny_taxi_postgres_data
 terrademo
 *.json
 *.terraform
+**/logs
+
 
 # .tfstate files
 *.tfstate
